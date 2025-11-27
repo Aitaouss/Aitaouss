@@ -15,8 +15,8 @@ I'm <b>Aimen Taoussi</b> 🎓, a student at <b>1337 (42 Network)</b> and a passi
 
 - 🎨 Graphic & UI/UX Design (Photoshop, Illustrator, Figma, Adobe XD)
 - 🌐 Frontend Dev: React, React Native, HTML, CSS, Tailwind CSS, NativeWind, Next.js
-- 🖥️ Backend Dev: Node.js, Express, Fastify
-- 💾 Databases: SQLite3, PostgreSQL, MongoDB
+- 🖥️ Backend Dev: Node.js, Express, Fastify, Nest js
+- 💾 Databases: SQLite3, PostgreSQL, MongoDB, MariaDB
 
 <!-- Contact -->
 <h3>📫 Connect with me:</h3>

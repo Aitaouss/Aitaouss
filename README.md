@@ -7,7 +7,9 @@
 
 <!-- About Me -->
 <p>
-I'm <b>Aimen Taoussi</b> 🎓, a student at <b>1337 (42 Network)</b> and a passionate <b>graphic designer</b> and <b>full-stack developer</b>. I love building visually stunning interfaces and robust applications that solve real-world problems. I’m always curious, always learning — from crafting UIs to diving deep into backend logic.
+  I'm <b>Aimen Taoussi</b>, a <b>software engineer at 1337 (42 Network)</b> with a strong passion for
+  <b>graphic design</b>, <b>UI/UX</b>, and <b>full-stack development</b>. I enjoy creating visually engaging
+  interfaces and building reliable, scalable applications. Always curious and always improving — from designing clean UIs to crafting solid backend architecture.
 </p>
 
 <!-- Personal Stuffs -->

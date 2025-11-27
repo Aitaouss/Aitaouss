@@ -22,7 +22,7 @@
 
 <!-- Contact -->
 <h3>📫 Connect with me:</h3>
-Portfolio : [https://aitaouss.me](https://www.aitaouss.me/)
+Portfolio : [https://www.aitaouss.me/]
 
 <p align="left">
   <a href="https://twitter.com/taoussi_aimen" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" height="30" width="30"/></a>

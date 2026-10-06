@@ -1,73 +1,91 @@
-[![aitaouss's 42 stats](https://badge.mediaplus.ma/greenbinary/aitaouss)](https://github.com/oakoudad/badge42)
+\<div align="center"\>
 
-<!-- Welcome Message -->
-<h2>Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+# Aimen Taoussi
 
-<h3>Glad to see you here!</h3>
+### Software Engineer · Full-Stack Developer · UI/UX Designer
 
-<!-- About Me -->
-<p>
-  I'm <b>Aimen Taoussi</b>, a <b>software engineer at 1337 (42 Network)</b> with a strong passion for
-  <b>graphic design</b>, <b>UI/UX</b>, and <b>full-stack development</b>. I enjoy creating visually engaging
-  interfaces and building reliable, scalable applications. Always curious and always improving — from designing clean UIs to crafting solid backend architecture.
-</p>
+I build reliable digital products where strong engineering meets thoughtful design.
+\<p\>
+&#32;&#32;\<a href="https://www.aitaouss.me/"\>
+&#32;&#32;&#32;&#32;\<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white" alt="Portfolio" /\>
+&#32;&#32;\</a\>
+&#32;&#32;\<a href="https://www.linkedin.com/in/aimen-taoussi-251684280/"\>
+&#32;&#32;&#32;&#32;\<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white" alt="LinkedIn" /\>
+&#32;&#32;\</a\>
+&#32;&#32;\<a href="mailto:taoussi.aimen@gmail.com"\>
+&#32;&#32;&#32;&#32;\<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email" /\>
+&#32;&#32;\</a\>
+&#32;&#32;\<a href="https://www.aitaouss.me/Aimen-Taoussi-CV.pdf"\>
+&#32;&#32;&#32;&#32;\<img src="https://img.shields.io/badge/Résumé-View-4B5563?style=for-the-badge\&logo=readdotcv\&logoColor=white" alt="Résumé" /\>
+&#32;&#32;\</a\>
+\</p\>
 
-<!-- Personal Stuffs -->
-<h3>🧠 Currently Exploring:</h3>
+Casablanca, Morocco · 1337 Coding School — 42 Network
+\</div\>
 
-- 🎨 Graphic & UI/UX Design (Photoshop, Illustrator, Figma, Adobe XD)
-- 🌐 Frontend Dev: React, React Native, HTML, CSS, Tailwind CSS, NativeWind, Next.js
-- 🖥️ Backend Dev: Node.js, Express, Fastify, Nest js
-- 💾 Databases: SQLite3, PostgreSQL, MongoDB, MariaDB
+***
 
-<!-- Contact -->
-<h3>📫 Connect with me:</h3>
-Portfolio : [https://www.aitaouss.me/]
+## About Me
 
-<p align="left">
-  <a href="https://twitter.com/taoussi_aimen" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" height="30" width="30"/></a>
-  <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" height="30" width="30"/></a>
-  <a href="https://web.facebook.com/Aimeeen.2005/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" height="30" width="30"/></a>
-  <a href="https://www.instagram.com/aimeeeeenn/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" height="30" width="30"/></a>
-</p>
+I’m a software engineering student at **1337 Coding School**, part of the  
+**42 Network**, with a focus on full-stack development, systems programming,  
+and product design.
 
-<!-- Tools & Tech -->
-<h3>🛠️ Tools & Technologies I Work With:</h3>
+I enjoy transforming complex requirements into reliable backend systems and
+clear, user-friendly interfaces. My design background helps me approach
+software from both a technical and product perspective.
 
-<p align="left">
-  <!-- Design Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/>
-</a>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+- Building modern applications with **React, Next.js, Node.js, and NestJS**
+- Strengthening my systems and networking foundations through **C and C++**
+- Designing accessible interfaces and product experiences with **Figma**
+- Interested in scalable architectures, developer tooling, and creative technology
 
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+***
 
+## Selected Projects
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastify" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+| Project | Description | Stack |
+|---|---|---|
+| [**Webserv**](<https://github.com/bablilayoub/webserv>) | HTTP server built from scratch with non-blocking sockets, CGI, file uploads, sessions, and configurable routing. | C++98, HTTP, Sockets, CGI |
+| [**Ebazaar**](<https://github.com/REDX-at/Ebazaar>) · [Live](<https://ebazaar-beta.vercel.app/>) | Full-stack marketplace where creators can open shops and sell digital products and services. | Next.js, Fastify, SQLite, Tailwind CSS |
+| [**Maghreb Grillage**](<https://github.com/Aitaouss/Maghrebgrillage-Website>) · [Live](<https://maghrebgrillage.vercel.app/>) | Responsive company website with a modern interface and reusable components. | Next.js, TypeScript, Tailwind CSS, shadcn/ui |
+| [**More projects**](<https://www.aitaouss.me/>) | UI/UX work, full-stack platforms, dashboards, and design projects. | View portfolio |
 
+***
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  
-</p>
+## Technical Skills
 
----
+| Area | Technologies |
+|---|---|
+| **Languages** | C, C++, JavaScript, TypeScript, Python |
+| **Frontend** | React, React Native, Next.js, HTML, CSS, Tailwind CSS, NativeWind |
+| **Backend** | Node.js, NestJS, Fastify, Express |
+| **Databases** | PostgreSQL, MongoDB, SQLite, MariaDB |
+| **Design** | Figma, Adobe Photoshop, Illustrator, Adobe XD |
+| **Tools** | Git, GitHub, Linux, REST APIs |
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em><b>I love connecting with people from all over the world. If you're passionate about tech, design, or just want to say hi, feel free to <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/">reach out</a> — but don’t just say hi, tell me your story!</b> 😊💜</em>
+***
+
+## 42 Journey
+\<div align="center"\>
+&#32;&#32;\<a href="https://github.com/oakoudad/badge42"\>
+&#32;&#32;&#32;&#32;\<img
+&#32;&#32;&#32;&#32;&#32;&#32;src="https://badge.mediaplus.ma/darkgray/aitaouss"
+&#32;&#32;&#32;&#32;&#32;&#32;alt="Aimen Taoussi's 42 statistics"
+&#32;&#32;&#32;&#32;/\>
+&#32;&#32;\</a\>
+\</div\>
+
+***
+
+## Let’s Connect
+
+I’m always interested in discussing software engineering, product design,
+open-source projects, and new opportunities.
+
+- **Portfolio:** [aitaouss.me](<https://www.aitaouss.me/>)
+- **LinkedIn:** [Aimen Taoussi](<https://www.linkedin.com/in/aimen-taoussi-251684280/>)
+- **Email:** taoussi.aimen@gmail.com (mailto:taoussi.aimen@gmail.com)
+\<div align="center"\>
+&#32;&#32;\<sub\>Building useful products with clean code and thoughtful design.\</sub\>
+\</div\>

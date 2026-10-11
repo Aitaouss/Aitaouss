@@ -1,72 +1,88 @@
-[![aitaouss's 42 stats](https://badge.mediaplus.ma/greenbinary/aitaouss)](https://github.com/oakoudad/badge42)
+<div align="center">
 
-<!-- Welcome Message -->
-<h2>Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+# Hey, I'm Aimen Taoussi 👋
 
-<h3>Glad to see you here!</h3>
+### Software Engineer · Full-Stack Developer · UI/UX Designer
 
-<!-- About Me -->
-<p>
-  I'm <b>Aimen Taoussi</b>, a <b>software engineer at 1337 (42 Network)</b> with a strong passion for
-  <b>graphic design</b>, <b>UI/UX</b>, and <b>full-stack development</b>. I enjoy creating visually engaging
-  interfaces and building reliable, scalable applications. Always curious and always improving — from designing clean UIs to crafting solid backend architecture.
-</p>
+**I turn ideas and designs into thoughtful, reliable digital experiences.**
 
-<!-- Personal Stuffs -->
-<h3>🧠 Currently Exploring:</h3>
+📍 Morocco &nbsp;·&nbsp; 🌍 Open to remote opportunities and collaborations
 
-- 🎨 Graphic & UI/UX Design (Photoshop, Illustrator, Figma, Adobe XD)
-- 🌐 Frontend Dev: React, React Native, HTML, CSS, Tailwind CSS, NativeWind, Next.js
-- 🖥️ Backend Dev: Node.js, Express, Fastify, Nest js
-- 💾 Databases: SQLite3, PostgreSQL, MongoDB, MariaDB
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aitaouss.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimen-taoussi-251684280/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aitaouss-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aitaouss)
 
-<!-- Contact -->
-<h3>📫 Connect with me:</h3>
-
-Portfolio : [https://www.aitaouss.me/]
-
-<p align="left">
-  <a href="https://twitter.com/taoussi_aimen" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" height="30" width="30"/></a>
-  <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" height="30" width="30"/></a>
-  <a href="https://web.facebook.com/Aimeeen.2005/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" height="30" width="30"/></a>
-  <a href="https://www.instagram.com/aimeeeeenn/" target="_blank"><img src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" height="30" width="30"/></a>
-</p>
-
-<!-- Tools & Tech -->
-<h3>🛠️ Tools & Technologies I Work With:</h3>
-
-<p align="left">
-  <!-- Design Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/>
-  </a>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastify" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+## About me
 
-<em><b>I love connecting with people from all over the world. If you're passionate about tech, design, or just want to say hi, feel free to <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/">reach out</a> — but don’t just say hi, tell me your story!</b> 😊💜</em>
+I'm **Aimen**, a software engineer with a foundation in **graphic design and UI/UX** and a passion for building complete web applications. I enjoy everything from shaping an interface in Figma to designing APIs, working with databases, and shipping applications to production.
+
+My background at **1337 (42 Network)** strengthened my approach to problem-solving, system fundamentals, and learning by building. I care about clean code, useful products, good user experiences, and understanding how the whole system fits together.
+
+- 💻 **What I do:** Full-stack development, frontend engineering, and UI/UX design
+- 🧩 **What I enjoy:** Turning complex problems into simple, intuitive experiences
+- ⚙️ **How I work:** From design and architecture to implementation, testing, and deployment
+- 📚 **What I'm exploring:** Data engineering, automation, AI/LLMs, and application security
+- 🤝 **Open to:** Remote engineering roles, freelance work, and meaningful collaborations
+
+---
+
+## What I work with
+
+| Area | Technologies & tools |
+| :--- | :--- |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, React Native, HTML, CSS |
+| **UI & styling** | Tailwind CSS, shadcn/ui, NativeWind, responsive design |
+| **Backend** | Node.js, NestJS, Express, Fastify, REST APIs |
+| **Databases & data** | PostgreSQL, MySQL, SQLite, MongoDB, Redis, SQL |
+| **DevOps & tooling** | Docker, Nginx, Git, GitHub Actions, Linux, CI/CD |
+| **Design** | Figma, Photoshop, Illustrator, Adobe XD |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,express,postgres,mysql,sqlite,redis,docker,git,figma,linux&perline=8" alt="Technology stack icons" />
+
+</div>
+
+---
+
+## My approach
+
+**Design with purpose.** I care about clarity, accessibility, consistency, and the small details that make software pleasant to use.
+
+**Build end to end.** I like understanding how interfaces, APIs, databases, and infrastructure work together—not just one layer in isolation.
+
+**Keep learning.** Whether it's a new framework, better architecture, or a deeper computer science concept, I'm always looking for ways to improve.
+
+---
+
+## 1337 · 42 Network
+
+<div align="center">
+
+[![Aimen's 42 Network stats](https://badge.mediaplus.ma/greenbinary/aitaouss)](https://github.com/oakoudad/badge42)
+
+</div>
+
+---
+
+## Let's connect
+
+I'm always happy to connect with people working on **software engineering, product design, open source, and interesting ideas**.
+
+<p align="center">
+  <a href="https://www.aitaouss.me/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Aitaouss">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aimen-taoussi-251684280/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/taoussi_aimen">X / Twitter</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/aimeeeeenn/">Instagram</a>
+</p>
+
+<div align="center">
+
+<sub>Always building · Always learning</sub>
+
+</div>

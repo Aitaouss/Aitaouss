@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aimen Taoussi 👋
+# Hey, I'm Aimen Taoussi
 
 ### Software Engineer · Full-Stack Developer · UI/UX Designer
 

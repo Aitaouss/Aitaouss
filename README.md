@@ -16,6 +16,8 @@
 
 ---
 
+[![aitaouss card](https://github-card.elite-1337.app/api/gh/aitaouss.svg?theme=c64&accent=lime&art=blocks&crt=1&name=Aimen%20TTaoussi&os=macOs&host=1337&role=Full-Stack%20Software%20Engineer%20%7C%20Rea&ide=Vs%20code&loc=Casablanca%2C%20Morocco&stack=JavaScript%2C%20TypeScript%2C%20Python%2C%20C%2C%20C%2B%2B%2C%20HTML&spoken=Arabic%2C%20French%2C%20English&email=taoussi.aimen%40gmail.com&web=https%3A%2F%2Faitaouss.me&linkedin=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimen-&discord=redx&x=%40taoussi_aimen)](https://github-card.elite-1337.app/)
+
 ## About me
 
 I'm **Aimen**, a software engineer with a foundation in **graphic design and UI/UX** and a passion for building complete web applications. I enjoy everything from shaping an interface in Figma to designing APIs, working with databases, and shipping applications to production.
